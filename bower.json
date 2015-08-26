@@ -1,0 +1,14 @@
+{
+  "name": "PYW_frontend",
+  "version": "0.0.0",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.4.4"
+  },
+  "devDependencies": {
+    "jasmine": "~2.3.4"
+  }
+}
